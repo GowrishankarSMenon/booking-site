@@ -1,0 +1,70 @@
+{
+    "deals": [
+      {
+        "id": 1,
+        "image": "/destinations/paris.jpg",
+        "duration": "2h 15m",
+        "type": "Direct",
+        "startDate": "Mar 15",
+        "endDate": "Mar 22",
+        "price": 599,
+        "destination": "Paris",
+        "description": "Experience the city of lights with our special spring package"
+      },
+      {
+        "id": 2,
+        "image": "/destinations/barcelona.jpg",
+        "duration": "2h 45m",
+        "type": "Direct",
+        "startDate": "Mar 18",
+        "endDate": "Mar 25",
+        "price": 479,
+        "destination": "Barcelona",
+        "description": "Discover the artistic soul of Catalunya"
+      },
+      {
+        "id": 3,
+        "image": "/destinations/rome.jpg",
+        "duration": "2h 30m",
+        "type": "Direct",
+        "startDate": "Mar 20",
+        "endDate": "Mar 27",
+        "price": 549,
+        "destination": "Rome",
+        "description": "Walk through history in the eternal city"
+      },
+      {
+        "id": 4,
+        "image": "/destinations/amsterdam.jpg",
+        "duration": "1h 50m",
+        "type": "Direct",
+        "startDate": "Mar 22",
+        "endDate": "Mar 29",
+        "price": 449,
+        "destination": "Amsterdam",
+        "description": "Experience the charm of Dutch canals and culture"
+      },
+      {
+        "id": 5,
+        "image": "/destinations/vienna.jpg",
+        "duration": "2h 20m",
+        "type": "Direct",
+        "startDate": "Mar 25",
+        "endDate": "Apr 1",
+        "price": 529,
+        "destination": "Vienna",
+        "description": "Immerse yourself in classical music and coffee culture"
+      },
+      {
+        "id": 6,
+        "image": "/destinations/prague.jpg",
+        "duration": "2h 10m",
+        "type": "Direct",
+        "startDate": "Mar 28",
+        "endDate": "Apr 4",
+        "price": 469,
+        "destination": "Prague",
+        "description": "Explore the magical city of hundred spires"
+      }
+    ]
+}
